@@ -17,7 +17,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>Movie-Ticket-Booking-System</name>
     <description>Movie Ticket Booking System Backend</description>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <properties>
         <java.version>21</java.version>
